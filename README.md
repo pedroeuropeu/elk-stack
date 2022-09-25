@@ -1,3 +1,6 @@
+**DISCLAIMER**
+Fork project from origin https://github.com/dizanetti/elk-stack
+
 # ELK - Stack
 
 The purpose of this project is to simulate an environment of microservices that centralize the logs in the ELK for further analysis.
